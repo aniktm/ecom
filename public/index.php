@@ -3,6 +3,7 @@
 <?php include(TEMPLATE_FRONT . DS . "header.php") ?>
 
     <!-- Page Content -->
+    <!-- Page Content -->
     <div class="container">
 
         <div class="row">
