@@ -1,3 +1,4 @@
+<!-- pulled from remote on 12 July 20 -->
 <?php require_once("../resources/config.php"); ?>
 
 <?php include(TEMPLATE_FRONT . DS . "header.php") ?>
